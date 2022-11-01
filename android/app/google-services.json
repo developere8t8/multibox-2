@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "186304720990",
+    "project_id": "multibox-5c9de",
+    "storage_bucket": "multibox-5c9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186304720990:android:f4107073d016f55e2484cf",
+        "android_client_info": {
+          "package_name": "com.multibox.multibox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186304720990-623joo6lu1h0u4ibpm3c65jsi9ejn5v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multibox.multibox",
+            "certificate_hash": "e78ff7a9b2a3289a64357a7c13a8ed3e0231b328"
+          }
+        },
+        {
+          "client_id": "186304720990-6qc2clg57jknbdiflvfitcbap07c2hj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multibox.multibox",
+            "certificate_hash": "9da59f79e90fe9f2fbddf9f4c6cf0b85e2c1184e"
+          }
+        },
+        {
+          "client_id": "186304720990-r7i82hit6ccb379jl2ic9vpo7d7817ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multibox.multibox",
+            "certificate_hash": "65af83120085d4df02c5ec53cf8528832c71bf1d"
+          }
+        },
+        {
+          "client_id": "186304720990-sdvjgburjub449rcvb3jkq2qu3dae7ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multibox.multibox",
+            "certificate_hash": "c0099e8bb33923a7f5dbc2352c055b94b497de12"
+          }
+        },
+        {
+          "client_id": "186304720990-jg9j5a88lsiqmgmqdffgu42ivqq9hfsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAQmRw1UQs5-uQVI0q_nvXFwmRYtyZfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186304720990-jg9j5a88lsiqmgmqdffgu42ivqq9hfsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186304720990-l7h4lb94honl8gg04l226rrtu0gk9mtv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multibox.multibox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

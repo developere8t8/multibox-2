@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="woman-s-face-38289" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9332" data-name="Group 9332" transform="translate(-114 -185)">
+    <g transform="matrix(1, 0, 0, 1, 114, 185)" filter="url(#woman-s-face-38289)">
+      <path id="woman-s-face-38289-2" data-name="woman-s-face-38289" d="M64,0A64,64,0,1,1,0,64,64,64,0,0,1,64,0Z" transform="translate(9 9)" fill="#fff"/>
+    </g>
+    <circle id="woman-s-face-38289-3" data-name="woman-s-face-38289" cx="56" cy="56" r="56" transform="translate(131 202)" fill="#173051" opacity="0.1"/>
+    <g id="XMLID_162_" transform="translate(130.457 229)">
+      <path id="XMLID_861_" d="M248.141,163.689a2.137,2.137,0,0,0,2.137-2.137V152.42a2.137,2.137,0,0,0-4.275,0v9.131A2.137,2.137,0,0,0,248.141,163.689Z" transform="translate(-191.234 -118.164)" fill="#173051"/>
+      <path id="XMLID_864_" d="M150.98,58.99h30.776a8.987,8.987,0,0,0,8.976-8.976V27.631a8.987,8.987,0,0,0-8.976-8.976h-.427V14.961a14.961,14.961,0,0,0-29.922,0v3.694h-.427A8.987,8.987,0,0,0,142,27.631V50.013A8.987,8.987,0,0,0,150.98,58.99Zm4.7-44.029a10.686,10.686,0,0,1,21.373,0v3.694H155.682Zm-9.4,12.67a4.707,4.707,0,0,1,4.7-4.7h30.776a4.707,4.707,0,0,1,4.7,4.7V50.013a4.707,4.707,0,0,1-4.7,4.7H150.98a4.707,4.707,0,0,1-4.7-4.7Z" transform="translate(-109.462 0)" fill="#173051"/>
+    </g>
+  </g>
+</svg>
